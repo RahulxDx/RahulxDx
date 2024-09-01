@@ -49,4 +49,7 @@
 
 <br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul2009?theme=light&font=Marcellus)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul2009?theme=dark&font=Marcellus)
+<br>
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=rahul2212e" alt="GFG stats"/>
+
