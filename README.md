@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me, Rahul
 
-### 🚀 AI/ML Enthusiast | Tech Explorer | DSA Learner
-
+### 🚀 AI/ML Enthusiast | Flutter Developer 📱 | Tech Explorer 👩‍💻 | DSA Learner 📈
+<br>
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600" alt="AI/ML Passion">
 </div>
@@ -9,7 +9,7 @@
 
 ### About Me
 - 🤖 **Passionate in AI/ML**: Continuously exploring the infinite possibilities of artificial intelligence and machine learning.
-- 👨🏻‍💻 **Currently Learning**: Diving deep into Data Structures and Algorithms (DSA) to strengthen my problem-solving skills.
+- 👨🏻‍💻 **Currently Learning**: Diving deep into Data Structures and Algorithms (DSA) to strengthen my problem-solving skills, while also mastering Flutter for building cross-platform mobile apps.
 - 👯 **Open to Collaboration**: Actively seeking to collaborate on innovative ML/AI projects.
 - 🤔 **Looking for Help**: Guidance on placements and career opportunities would be invaluable.
 - 💬 **Ask Me About**: Technology, AI/ML trends, or anything tech-related.
