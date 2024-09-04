@@ -17,7 +17,7 @@
 - 😄 **Pronouns**: Techie
 - ⚡ **Fun Fact**: I can speak French!
 
-### 🛠️ My Proficiencies
+### 🛠️ My Proficiencie
 <div align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/> &nbsp;
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/> &nbsp;
@@ -37,8 +37,11 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="Anaconda"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
 </div>
 
 ### 💻 Workspace Specs
