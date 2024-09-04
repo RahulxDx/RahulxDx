@@ -1,5 +1,10 @@
 ## Hi there 👋 It's me, Rahul
 
+![AI/ML Engineer Student](https://img.shields.io/badge/AI%2FML-Engineer%20Student-blueviolet?style=for-the-badge)
+
+  
+
+
 ### 🚀 AI/ML Enthusiast | Flutter Developer 📱 | Tech Explorer 👩‍💻 | DSA Learner 📈
 <br>
 <div align="center">
@@ -7,13 +12,15 @@
 </div>
 <br>
 
+
 ### About Me
 - 🤖 **Passionate in AI/ML**: Continuously exploring the infinite possibilities of artificial intelligence and machine learning.
 - 👨🏻‍💻 **Currently Learning**: Diving deep into Data Structures and Algorithms (DSA) to strengthen my problem-solving skills, while also mastering Flutter for building cross-platform mobile apps.
 - 👯 **Open to Collaboration**: Actively seeking to collaborate on innovative ML/AI projects.
 - 🤔 **Looking for Help**: Guidance on placements and career opportunities would be invaluable.
 - 💬 **Ask Me About**: Technology, AI/ML trends, or anything tech-related.
-- 📫 **Reach Me At**: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahul-rn-864144277)
+- 📫 **Reach Me At**:
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahul-rn-864144277)
 - 😄 **Pronouns**: Techie
 - ⚡ **Fun Fact**: I can speak French!
 
@@ -29,7 +36,6 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="Arduino"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/flask.png" alt="Flask"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/figma.png" alt="Figma"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="Blender 3D"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
 </div>
@@ -44,6 +50,8 @@
   <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="Blender 3D"/> &nbsp;
+
 </div>
 
 ### 💻 Workspace Specs
@@ -68,7 +76,8 @@
 
   ### 📫 Let's Connect!
   
-   Feel free to reach out 
+  Feel free to reach out for collaborations or just a chat about tech!
+
 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrnsr@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rn-864144277)
