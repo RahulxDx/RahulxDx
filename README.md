@@ -17,7 +17,9 @@
 - 😄 **Pronouns**: Techie
 - ⚡ **Fun Fact**: I can speak French!
 
-### 🛠️ My Proficiencie
+## 💻 Tech Stack
+
+### 🛠️ Languages & Frameworks
 <div align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/> &nbsp;
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/> &nbsp;
@@ -52,9 +54,27 @@
 
 <br>
 
+## 🏆 LeetCode Stats
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul2009?theme=dark&font=Marcellus)
 <br>
+## 🏆 GeeksForGeeks Stats
+
 <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=rahul2212e" alt="GFG stats"/>
+
+---
+
+<div align="center">
+
+  ### 📫 Let's Connect!
+  
+   Feel free to reach out 
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrnsr@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rn-864144277)
+
+</div>
+
 
 
 
