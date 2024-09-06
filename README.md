@@ -5,7 +5,7 @@
   
 
 
-### 🚀 AI/ML Enthusiast | Flutter Developer 📱 | Tech Explorer 👩‍💻 | DSA Learner 📈
+### 🤖 AI/ML Enthusiast | Flutter Developer 📱 | Tech Explorer 👩‍💻 | DSA Learner 📈
 <br>
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600" alt="AI/ML Passion">
@@ -26,18 +26,29 @@
 
 ## 💻 Tech Stack
 
-### 🛠️ Languages & Frameworks
+### 🛠️ Languages & Tools
 <div align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/> &nbsp;
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="Dart"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="Arduino"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/flask.png" alt="Flask"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/figma.png" alt="Figma"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="Blender 3D"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="Arduino"/> &nbsp;
 </div>
 
 ### 🛠️ IDEs and Tools I Use
@@ -46,11 +57,9 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="Anaconda"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="Blender 3D"/> &nbsp;
 
 </div>
 
