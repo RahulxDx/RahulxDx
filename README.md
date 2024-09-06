@@ -28,40 +28,40 @@
 
 ### 🛠️ Languages & Tools
 <div align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/> &nbsp;
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> &nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/flask.png" alt="Flask"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/figma.png" alt="Figma"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="Blender 3D"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="Arduino"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C Programming" title="C Programming"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" title="HTML"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="Dart" title="Dart"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" title="Flutter"/> &nbsp;
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/pytorch.png" alt="PyTorch" title="PyTorch"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" title="Pandas"/> &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" title="Seaborn"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="OpenCV" title="OpenCV"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" title="Scikit-learn"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" title="SQLite"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/flask.png" alt="Flask" title="Flask"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/figma.png" alt="Figma" title="Figma"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="Blender" title="Blender"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="Arduino" title="Arduino"/> &nbsp;
 </div>
 
 ### 🛠️ IDEs and Tools I Use
 <div align="center">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="Anaconda"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
-
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" title="Jupyter"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="Anaconda" title="Anaconda"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" title="Google Colab"/> &nbsp;
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" title="GitHub"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio" title="Android Studio"/> &nbsp;
 </div>
+
 
 ### 💻 Workspace Specs
 <div align="center">
