@@ -2,9 +2,6 @@
 
 ![AI/ML Engineer Student](https://img.shields.io/badge/AI%2FML-Engineer%20Student-blueviolet?style=for-the-badge)
 
-  
-
-
 ### 🤖 AI/ML Enthusiast | Flutter Developer 📱 | Tech Explorer 👩‍💻 | DSA Learner 📈
 <br>
 <div align="center">
@@ -12,10 +9,9 @@
 </div>
 <br>
 
-
 ### About Me
 - 🤖 **Passionate in AI/ML**: Continuously exploring the infinite possibilities of artificial intelligence and machine learning.
-- 👨🏻‍💻 **Currently Learning**: Diving deep into Data Structures and Algorithms (DSA) to strengthen my problem-solving skills, while also mastering Flutter for building cross-platform mobile apps.
+- 👨🏻‍💻 **Currently Learning**: Diving deep into Data Structures and Algorithms (DSA) to strengthen my problem-solving skills, while also mastering Flutter for building cross-platform mobile apps, learning Django for web development, and exploring NVIDIA DeepStream SDK for real-time AI applications.
 - 👯 **Open to Collaboration**: Actively seeking to collaborate on innovative ML/AI projects.
 - 🤔 **Looking for Help**: Guidance on placements and career opportunities would be invaluable.
 - 💬 **Ask Me About**: Technology, AI/ML trends, or anything tech-related.
@@ -45,10 +41,8 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" title="SQLite"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/flask.png" alt="Flask" title="Flask"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/figma.png" alt="Figma" title="Figma"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="Blender" title="Blender"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="Arduino" title="Arduino"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="Django" title="Django"/> &nbsp; <!-- Added Django here -->
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nvidia.png" alt="NVIDIA DeepStream SDK" title="NVIDIA DeepStream SDK"/> &nbsp; <!-- Added NVIDIA DeepStream SDK here -->
 </div>
 
 ### 🛠️ IDEs and Tools I Use
@@ -61,7 +55,6 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio" title="Android Studio"/> &nbsp;
 </div>
-
 
 ### 💻 Workspace Specs
 <div align="center">
@@ -87,13 +80,7 @@
   
   Feel free to reach out for collaborations or just a chat about tech!
 
-
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrnsr@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rn-864144277)
 
 </div>
-
-
-
-
-
