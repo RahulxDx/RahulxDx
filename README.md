@@ -64,13 +64,7 @@
 
 <br>
 
-## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul2009?theme=dark&font=Marcellus)
-<br>
-## 🏆 GeeksForGeeks Stats
-
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=rahul2212e" alt="GFG stats"/>
 
 ---
 
