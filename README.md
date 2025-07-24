@@ -66,7 +66,7 @@
 
 ## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul2009?theme=dark&font=Marcellus)
+![LeetCode Stats](https://leetcard.jacoblin.cool/RahulxDx?theme=dark&font=Marcellus)
 <br>
 
 <div align="center">
