@@ -2,7 +2,7 @@
 
 ![AI/ML Engineer Student](https://img.shields.io/badge/AI%2FML-Engineer%20Student-blueviolet?style=for-the-badge)
 
-### 🤖 AI/ML Enthusiast | Flutter Developer 📱 | Tech Explorer 👩‍💻 | DSA Learner 📈
+### 🤖 Machine Learning Engineer | AI Enthusiast | Tech Explorer 👨‍💻  
 <br>
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600" alt="AI/ML Passion">
@@ -10,14 +10,14 @@
 <br>
 
 ### About Me
-- 🤖 **Passionate in AI/ML**: Continuously exploring the infinite possibilities of artificial intelligence and machine learning.
-- 👨🏻‍💻 **Currently Learning**: Diving deep into Data Structures and Algorithms (DSA) to strengthen my problem-solving skills, while also mastering Flutter for building cross-platform mobile apps, learning Django for web development, and exploring NVIDIA DeepStream SDK for real-time AI applications.
-- 👯 **Open to Collaboration**: Actively seeking to collaborate on innovative ML/AI projects.
-- 🤔 **Looking for Help**: Guidance on placements and career opportunities would be invaluable.
-- 💬 **Ask Me About**: Technology, AI/ML trends, or anything tech-related.
+- 🤖 **Machine Learning Engineer in the Making**: Solving real-world problems using AI/ML, Computer Vision, NLP, and Deep Learning.
+- 👨🏻‍💻 **Currently Working On**: Advancing my skills in ML model deployment, NVIDIA DeepStream SDK for real-time AI, and Django for scalable web applications.
+- 👯 **Open to Collaboration**: Actively looking to work on AI/ML-focused projects and research.
+- 📚 **Exploring**: Generative AI, MLOps, and Model Evaluation techniques.
+- 💬 **Ask Me About**: Machine Learning pipelines, deployment, AI tools, and trending technologies.
 - 📫 **Reach Me At**:
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahul-rn-864144277)
-- 😄 **Pronouns**: Techie
+- 😄 **Pronouns**: Techie  
 - ⚡ **Fun Fact**: I can speak French!
 
 ## 💻 Tech Stack
@@ -29,8 +29,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" title="HTML"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="Dart" title="Dart"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" title="Flutter"/> &nbsp;
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/pytorch.png" alt="PyTorch" title="PyTorch"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" title="Pandas"/> &nbsp;
@@ -41,8 +39,8 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" title="SQLite"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/flask.png" alt="Flask" title="Flask"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="Django" title="Django"/> &nbsp; <!-- Added Django here -->
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nvidia.png" alt="NVIDIA DeepStream SDK" title="NVIDIA DeepStream SDK"/> &nbsp; <!-- Added NVIDIA DeepStream SDK here -->
+  <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="Django" title="Django"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nvidia.png" alt="NVIDIA DeepStream SDK" title="NVIDIA DeepStream SDK"/> &nbsp;
 </div>
 
 ### 🛠️ IDEs and Tools I Use
@@ -64,9 +62,8 @@
 
 <br>
 
-
-
 ---
+
 ## 🏆 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul2009?theme=dark&font=Marcellus)
